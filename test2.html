@@ -791,23 +791,25 @@ async function sendMessage(){
 
     showTyping();
 
-    try{
+   try{
 
-        const response = await fetch(
-            "http://127.0.0.1:5000/chat",
+    const response = await fetch(
 
-            {
-                method:"POST",
+        "https://my-ai-agent-igwh.onrender.com/chat",
 
-                headers:{
-                    "Content-Type":"application/json"
-                },
+        {
+            method:"POST",
 
-                body:JSON.stringify({
-                    message:message
-                })
-            }
-        );
+            headers:{
+                "Content-Type":"application/json"
+            },
+
+            body:JSON.stringify({
+                message:message
+            })
+        }
+    );
+
 
         const data = await response.json();
 
