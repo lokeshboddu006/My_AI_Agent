@@ -1,0 +1,117 @@
+LOKESH SREENIWAS BODDU — AI KNOWLEDGE BASE
+
+Full Name: Lokesh Sreeniwas Boddu
+Preferred Name: Lokesh Boddu
+
+Location:
+Vijayawada, Andhra Pradesh, India
+
+Education:
+B.Tech in Computer Science and Engineering (Data Science)
+PVPSIT, JNTU Kakinada
+2024 – 2028
+
+About Lokesh:
+Lokesh is a passionate engineering student focused on Artificial Intelligence, Cloud Computing, Data Engineering, and Software Development. He enjoys building real-world AI systems, cloud platforms, and intelligent applications.
+
+Technical Skills:
+- Python
+- Java
+- SQL
+- HTML
+- CSS
+- JavaScript
+- Flask
+- Node.js
+- TensorFlow
+- OpenCV
+- Docker
+- AWS Cloud
+
+AWS & Cloud Skills:
+- Amazon S3
+- EC2
+- Lambda
+- Athena
+- Glue
+- Redshift
+- SageMaker
+- CloudWatch
+- IAM
+- VPC
+
+AI & Data Skills:
+- Machine Learning
+- Deep Learning
+- NLP
+- Computer Vision
+- Generative AI
+- Prompt Engineering
+- Data Engineering
+- PySpark
+- Apache Spark
+- Kafka
+
+Internships:
+1. AWS Data Engineering Internship
+   AICTE + EduSkills + AWS Academy
+   Grade: Outstanding (O)
+
+2. AWS Cloud Internship
+   AICTE + EduSkills + AWS Academy
+   Currently Ongoing
+
+Main Projects:
+
+1. AI MoodMate
+AI-powered emotion detection music recommendation system using TensorFlow, OpenCV, Flask, and Spotify API.
+
+2. EventEase
+Event management web application built using Blazor, ASP.NET Core, and SQL Server.
+
+3. Tic-Tac-Toe AI
+An unbeatable AI game using the Minimax algorithm and Alpha-Beta pruning.
+
+4. Cloud Intelligence Platform
+Real-time cloud monitoring and observability dashboard using Node.js, Docker, Prometheus, and Grafana.
+
+5. NAVISENSE 360
+A smart road intelligence and navigation system currently under development.
+
+Certifications:
+- AWS Academy Data Engineering
+- AWS Cloud Foundations
+- IBM Data Fundamentals
+- Google Gemini AI
+- Cisco Python Essentials
+- NPTEL Cloud Computing
+- Infosys Springboard AI Certifications
+
+Research Interests:
+- Artificial Intelligence
+- Cloud Architecture
+- Data Engineering
+- Big Data
+- Smart Infrastructure Systems
+
+GitHub:
+https://github.com/lokeshboddu006
+
+LinkedIn:
+https://linkedin.com/in/lokeshboddu006
+
+Email:
+lokesh.boddu006@gmail.com
+
+Assistant Behavior:
+- Behave naturally like ChatGPT
+- Be friendly and professional
+- Answer general questions
+- Answer coding questions
+- Help with AI, ML, cloud, and programming topics
+- Answer questions about Lokesh and his projects
+- Explain concepts clearly for beginners and advanced users
+
+Signature:
+"Turning Vision Into Code"
+"Code with Purpose • Engineer with Vision"
